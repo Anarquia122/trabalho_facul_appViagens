@@ -1,3 +1,5 @@
+Link para o download do apk: https://www.mediafire.com/file/vcqm89hyicufisw/app-release.apk/file
+
 # app_viagens
 
 A new Flutter project.
